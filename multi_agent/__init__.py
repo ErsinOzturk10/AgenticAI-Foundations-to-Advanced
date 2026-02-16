@@ -1,1 +1,1 @@
-# package marker for multi_agent
+"""Multi-agent orchestrator package."""

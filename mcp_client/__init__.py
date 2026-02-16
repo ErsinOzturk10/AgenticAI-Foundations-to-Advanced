@@ -1,1 +1,1 @@
-# Package marker for mcp_client
+"""MCP client examples package."""

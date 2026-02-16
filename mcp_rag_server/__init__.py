@@ -1,1 +1,1 @@
-# package marker for mcp_rag_server
+"""RAG MCP server package."""

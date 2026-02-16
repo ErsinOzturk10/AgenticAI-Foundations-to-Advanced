@@ -1,1 +1,1 @@
-# Package marker for mcp_server
+"""Custom MCP server package."""
